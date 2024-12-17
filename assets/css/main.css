@@ -3872,7 +3872,7 @@ input, select, textarea {
 		  #experience .timeline .timeline-text {
 			padding: 30px;
 			background: #ffffff;
-			position: relative;
+			position: absolute;
 			border-right: 5px solid #dddddd;
 			box-shadow: 0 0 60px rgba(0, 0, 0, .08);
 		  }
