@@ -3796,7 +3796,7 @@ input, select, textarea {
 		  }
 		  
 		  #experience .timeline .timeline-item.left {
-			left: 5vw;
+			left: 5%;
 			padding-right: 30px;
 		  }
 		  
@@ -3820,6 +3820,10 @@ input, select, textarea {
 		  
 		  #experience .timeline .timeline-item.right::after {
 			left: -8px;
+		  }
+
+		  #experience .timeline .timeline-item.left::after {
+			right: -8px;
 		  }
 		  
 		  #experience .timeline .timeline-item::before {
