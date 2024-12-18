@@ -3874,11 +3874,11 @@ input, select, textarea {
 		  }
 		  
 		  #experience .timeline .timeline-text {
-			padding: 30px;
+			padding: 50px;
 			background: #ffffff;
 			position: relative;
 			border-right: 5px solid #dddddd;
-			box-shadow: 0 0 60px rgba(0, 0, 0, .08);
+			box-shadow: 0 0 50px rgba(0, 0, 0, .08);
 		  }
 		  
 		  #experience .timeline .timeline-item.right .timeline-text {
